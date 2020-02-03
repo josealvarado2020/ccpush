@@ -1,0 +1,8 @@
+{
+  "appId": "au.com.cashconverters.push",
+  "appName": "ccpush",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

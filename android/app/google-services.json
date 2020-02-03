@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746787899939",
+    "firebase_url": "https://mobile-app-test-254800.firebaseio.com",
+    "project_id": "mobile-app-test-254800",
+    "storage_bucket": "mobile-app-test-254800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746787899939:android:e6a19ddca58f3973923f96",
+        "android_client_info": {
+          "package_name": "au.com.cashconverters.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746787899939-hkh43s4nqvib4s91a6s2tonnbfim6neg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9zoqsnaXW9s8BJapUox_8hP-nkeasxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746787899939-hkh43s4nqvib4s91a6s2tonnbfim6neg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

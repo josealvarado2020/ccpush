@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ccpush</string>
+    <string name="title_activity_main">ccpush</string>
+    <string name="package_name">au.com.cashconverters.push</string>
+    <string name="custom_url_scheme">au.com.cashconverters.push</string>
+</resources>
