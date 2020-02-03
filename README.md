@@ -41,3 +41,6 @@ to test send a POST request to: https://fcm.googleapis.com/v1/projects/mobile-ap
 }
 
 make sure to add an authorization header with bearer token
+
+## Send request using c# client
+see pushnotifications.linq for examples to get token, send single and multiple notifications with few simple settings
